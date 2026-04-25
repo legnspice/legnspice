@@ -8,7 +8,7 @@
 ### Impact
 * **1,000+** dormers served via peer-to-peer platform *(MakeAbot)*
 * **500+** records digitized & synced for 40+ NGO staff *(AGILA)*
-* **3,000+** dataset entries mapped for scholarship/institution tracking *(SchoHub)*
+* **3,000+** dataset entries mapped for student scholarship/institution tracking *(SchoHub)*
 
 
 ### Shipped Products
