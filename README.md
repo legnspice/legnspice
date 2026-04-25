@@ -11,17 +11,17 @@
 * **3,000+** dataset entries mapped for student financial aid *(SchoHub)*
 
 
-### Shipped products
+### Shipped Products
 
-**AGILA CATalog** | *PM & Lead Backend*
+**AGILA CATalog** | *PM & Lead Backend*<br>
 Digitized a manual NGO workflow into a full-stack adoption platform. Engineered a self-healing, two-way sync engine between PostgreSQL and legacy Google Sheets to guarantee zero data loss.
 🔗 [Live App](https://ateneanagila.vercel.app/login) | [GitHub](https://github.com/legnspice/agila-app)
 
-**MakeAbot** | *Backend Engineer*
+**MakeAbot** | *Backend Engineer*<br>
 Peer-to-peer campus sharing network. Architected the backend requests tracker, specialized chat system, and user review framework.
 🔗 [Live App](https://makeabot.vercel.app/) | [GitHub](https://github.com/legnspice/MakeAbot)
 
-**SchoHub** | *Full-Stack Developer*
+**SchoHub** | *Full-Stack Developer*<br>
 Scholarship discovery engine filtering a dataset of over 3,000+ entries and application tracker for Filipino students.
 🔗 [Live App](https://schohub.nilescabrera.uk/) | [GitHub](https://github.com/legnspice/schohub-next)
 
