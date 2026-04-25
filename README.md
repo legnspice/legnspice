@@ -1,16 +1,32 @@
-## Hi there 👋
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b9316271-e94b-46bf-84e6-245638bd80d9" /># Niles Cabrera
+**Product Engineer • CS @ Ateneo • DOST-SEI Scholar**
+[LinkedIn](https://www.linkedin.com/in/niles-cabrera-5b8270338/) | [nilestristan@gmail.com](mailto:nilestristan@gmail.com) 
 
-<!--
-**legnspice/legnspice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I build scalable products that solve real business bottlenecks. I leverage modern backend architectures and AI-assisted workflows to ship end-to-end solutions faster. 
 
-Here are some ideas to get you started:
+### Impact
+* **1,000+** dormers served via peer-to-peer platform *(MakeAbot)*
+* **500+** records digitized & synced for 40+ NGO staff *(AGILA)*
+* **3,000+** dataset entries mapped for student financial aid *(SchoHub)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Shipped Products
+
+**AGILA CATalog** | *PM & Lead Backend* 
+Digitized a manual NGO workflow into a full-stack adoption platform. Engineered a self-healing, two-way sync engine between PostgreSQL and legacy Google Sheets to guarantee zero data loss.
+🔗 [Live App](https://ateneanagila.vercel.app/login) | [GitHub](https://github.com/legnspice/agila-app)
+
+**MakeAbot** | *Backend Engineer*
+Peer-to-peer campus sharing network. Architected the backend requests tracker, specialized chat system, and user review framework.
+🔗 [Live App](https://makeabot.vercel.app/) | [GitHub](https://github.com/legnspice/MakeAbot)
+
+**SchoHub** | *Full-Stack Developer*
+Scholarship discovery engine filtering a dataset of over 3,000+ entries and application tracker for Filipino students.
+🔗 [Live App](https://schohub.nilescabrera.uk/) | [GitHub](https://github.com/legnspice/schohub-next)
+
+### AI & Hackathon Wins
+* **2nd Runner-up (out of 25+) — Google Dev Groups Hackfest:** Shipped *SCHROLLAR*, converting passive scrolling into structured research feeds using **DeBERTa-v3 NLI**.
+* **2nd Runner-up (out of 30+) — DLSU Hackercup:** Architected *KLUTCH*, an AI-integrated gig-economy matching platform powered by **Ollama / Local LLMs**.
+* **Regional Rep — STEMazing:** Proposed *POTPATAK*, a biomimicry-inspired IoT hardware/software system for crop research.
+
+### 💻 Core Stack
+`TypeScript` `Next.js` `React` `Node.js` `PostgreSQL` `Supabase` `Ollama` `Vercel`
