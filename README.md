@@ -5,13 +5,13 @@
 > I build scalable products that solve real world problems. I leverage modern backend architectures and AI-assisted workflows to ship end-to-end solutions faster. 
 
 
-### impact
+### Impact
 * **1,000+** dormers served via peer-to-peer platform *(MakeAbot)*
 * **500+** records digitized & synced for 40+ NGO staff *(AGILA)*
 * **3,000+** dataset entries mapped for student financial aid *(SchoHub)*
 
 
-### shipped products
+### Shipped products
 
 **AGILA CATalog** | *PM & Lead Backend*
 Digitized a manual NGO workflow into a full-stack adoption platform. Engineered a self-healing, two-way sync engine between PostgreSQL and legacy Google Sheets to guarantee zero data loss.
@@ -26,7 +26,7 @@ Scholarship discovery engine filtering a dataset of over 3,000+ entries and appl
 🔗 [Live App](https://schohub.nilescabrera.uk/) | [GitHub](https://github.com/legnspice/schohub-next)
 
 
-### wins
+### Wins
 * **2nd Runner-up (out of 25+) — Google Dev Groups Hackfest:** Shipped *SCHROLLAR*, converting passive scrolling into structured research feeds using **DeBERTa-v3 NLI**.
 * **2nd Runner-up (out of 30+) — DLSU Hackercup:** Architected *KLUTCH*, an AI-integrated gig-economy matching platform powered by **Ollama / Local LLMs**.
 * **Regional Rep — STEMazing:** Proposed *POTPATAK*, a biomimicry-inspired IoT hardware/software system for crop research.
