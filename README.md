@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b9316271-e94b-46bf-84e6-245638bd80d9" /># Niles Cabrera
+># Niles Cabrera
 **Product Engineer • CS @ Ateneo • DOST-SEI Scholar**
 [LinkedIn](https://www.linkedin.com/in/niles-cabrera-5b8270338/) | [nilestristan@gmail.com](mailto:nilestristan@gmail.com) 
 
