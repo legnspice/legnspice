@@ -4,10 +4,12 @@
 
 > I build scalable products that solve real business bottlenecks. I leverage modern backend architectures and AI-assisted workflows to ship end-to-end solutions faster. 
 
+
 ### The Impact
 * **1,000+** dormers served via peer-to-peer platform *(MakeAbot)*
 * **500+** records digitized & synced for 40+ NGO staff *(AGILA)*
 * **3,000+** dataset entries mapped for student financial aid *(SchoHub)*
+
 
 ### The Shipped Products
 
@@ -22,6 +24,7 @@ Peer-to-peer campus sharing network. Architected the backend requests tracker, s
 **SchoHub** | *Full-Stack Developer*
 Scholarship discovery engine filtering a dataset of over 3,000+ entries and application tracker for Filipino students.
 🔗 [Live App](https://schohub.nilescabrera.uk/) | [GitHub](https://github.com/legnspice/schohub-next)
+
 
 ### The Wins
 * **2nd Runner-up (out of 25+) — Google Dev Groups Hackfest:** Shipped *SCHROLLAR*, converting passive scrolling into structured research feeds using **DeBERTa-v3 NLI**.
