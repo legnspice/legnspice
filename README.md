@@ -11,7 +11,7 @@
 * **3,000+** dataset entries mapped for student financial aid *(SchoHub)*
 
 
-### The Shipped Products
+### Shipped Products
 
 **AGILA CATalog** | *PM & Lead Backend*
 Digitized a manual NGO workflow into a full-stack adoption platform. Engineered a self-healing, two-way sync engine between PostgreSQL and legacy Google Sheets to guarantee zero data loss.
@@ -26,7 +26,7 @@ Scholarship discovery engine filtering a dataset of over 3,000+ entries and appl
 🔗 [Live App](https://schohub.nilescabrera.uk/) | [GitHub](https://github.com/legnspice/schohub-next)
 
 
-### The Wins
+### Wins
 * **2nd Runner-up (out of 25+) — Google Dev Groups Hackfest:** Shipped *SCHROLLAR*, converting passive scrolling into structured research feeds using **DeBERTa-v3 NLI**.
 * **2nd Runner-up (out of 30+) — DLSU Hackercup:** Architected *KLUTCH*, an AI-integrated gig-economy matching platform powered by **Ollama / Local LLMs**.
 * **Regional Rep — STEMazing:** Proposed *POTPATAK*, a biomimicry-inspired IoT hardware/software system for crop research.
