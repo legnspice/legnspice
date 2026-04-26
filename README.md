@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hey there! I'm Niles.
+# 😁 Hey there! I'm Niles.
 **Product Engineer • CS @ Ateneo • DOST-SEI Scholar**
 [LinkedIn](https://www.linkedin.com/in/niles-cabrera-5b8270338/) | [nilestristan@gmail.com](mailto:nilestristan@gmail.com) 
 
